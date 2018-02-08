@@ -9,3 +9,4 @@ Labview Driver for ncd.io wireless temperature humidity sensor this exe will wor
 Install run time engine from here 64bit http://www.ni.com/download/labview-run-time-engine-2017/6821/en/
 
 32 bit http://www.ni.com/download/labview-run-time-engine-2017/6822/en/
+http://www.ni.com/download/labview-run-time-engine-2017/6819/en/
